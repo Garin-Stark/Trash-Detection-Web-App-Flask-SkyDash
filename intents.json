@@ -1,0 +1,247 @@
+{
+  "intents": [
+    {
+      "tag": "13133",
+      "patterns": [
+        "Assalamualaikum"
+        
+      ],
+      "responses": [
+        "Waalaikumsalam admin SkyDash"
+        
+      ]
+    },
+    {
+      "tag": "1",
+      "patterns": [
+        "!menu"
+        
+      ],
+      "responses": [
+        "!guide || !info || !Dev "
+        
+      ]
+    },
+    {
+      "tag": "2",
+      "patterns": [
+        "!guide"
+        
+      ],
+      "responses": [
+        "Penggunaan Pendeteksian Otomatis Sampah Dengan Menjalankan Monitoring"
+        
+      ]
+    },
+    {
+      "tag": "3",
+      "patterns": [
+        "!info"
+        
+      ],
+      "responses": [
+        "SkyDash App Ruang Bebas Sampah"
+        
+      ]
+    },
+    {
+      "tag": "4",
+      "patterns": [
+        "!Owner"
+        
+      ],
+      "responses": [
+        "Kelompok 2 Politeknik Harapan Bersama"
+        
+      ]
+    },
+    {
+      "tag": "5",
+      "patterns": [
+        "sampah"
+        
+      ],
+      "responses": [
+        "3R"
+        
+      ]
+    },
+    {
+      "tag": "6",
+      "patterns": [
+        "recycle"
+        
+      ],
+      "responses": [
+        "recycle adalah suatu proses untuk mengembalikan limbah - limbah atau bahan - bahan yang sudah tidak berguna menjadi berguna kembali."
+        
+      ]
+    },
+    {
+      "tag": "7",
+      "patterns": [
+        "3R"
+        
+      ],
+      "responses": [
+        "Reduce, Reuse, Recycle"
+        
+      ]
+    },
+    {
+      "tag": "8",
+      "patterns": [
+        "Reuse"
+        
+      ],
+      "responses": [
+        "Reuse berarti 'menggunakan kembali'. Langkah ini mengajak kita untuk menggunakan kembali produk yang sudah dipakai."
+        
+      ]
+    },
+    {
+      "tag": "9",
+      "patterns": [
+        "Reduce"
+        
+      ],
+      "responses": [
+        "Reduce berarti 'mengurangi sampah'. Maksudnya, langkah ini mengajak kita untuk mengurangi penggunaan produk yang nantinya akan menjadi sampah."
+        
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Data sampah di Indonesia"
+        
+      ],
+      "responses": [
+        "Indonesia menghasilkan 67,8 juta ton sampah pada 2020. Berdasarkan data Kementerian Lingkungan Hidup dan Kehutanan (KLHK), 37,3% sampah di Indonesia berasal dari aktivitas rumah tangga. Sumber sampah terbesar berikutnya berasal dari pasar tradisional, yakni 16,4%. Sebanyak 15,9% sampah berasal dari kawasan."
+        
+      ]
+    },
+
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Sampah Indonesia per tahun"
+        
+      ],
+      "responses": [
+        "Indonesia menghasilkan 67,8 juta ton sampah pada 2020. Berdasarkan data Kementerian Lingkungan Hidup dan Kehutanan (KLHK), 37,3% sampah di Indonesia berasal dari aktivitas rumah tangga. Sumber sampah terbesar berikutnya berasal dari pasar tradisional, yakni 16,4%"
+        
+      ]
+    },
+
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "selamat pagi"
+        
+      ],
+      "responses": [
+        "selamat pagi"
+        
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "website apakah ini"
+        
+      ],
+      "responses": [
+        "ini adalah website klasifikasi sampah yang bisa mendetek sampah jenis metal, karton"
+        
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "terimakasih"
+        
+      ],
+      "responses": [
+        "samasama"
+        
+      ]
+    },
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Apa dampak dari sampah?"
+        
+      ],
+      "responses": [
+        "Dampak buruk lingkungan kotor serta polusi sampah terhadap lingkungan sendiri meliputi banyak hal dan salah satunya adalah pencemaran air. ... Selain mencemari sungai dan menghambat proses air tanah, sampah juga dapat mencemari tanah dan menjadikannya tidak sehat."
+        
+      ]
+    },
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "plastik"
+        
+      ],
+      "responses": [
+        "Sampah plastik adalah semua barang bekas atau tidak terpakai yang materialnya diproduksi dari bahan kimia tak terbarukan. Sebagian besar sampah plastik yang digunakan sehari-hari biasanya dipakai untuk pengemasan"
+        
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Bagaimana kondisi sampah plastik di Indonesia?"
+        
+      ],
+      "responses": [
+        "Di Indonesia, menurut data statistik persampahan domestik Indonesia, jenis sampah plastik menduduki peringkat kedua sebesar 5.4 juta ton per tahun atau 14 persen dari total produksi sampah. ... Sampah kantong plastik yang dihasilkan oleh Kota Jakarta saja dalam sehari mencapai 1.000 ton."
+        
+      ]
+    },
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Apa solusi yang baik tentang masalah sampah?"
+        
+      ],
+      "responses": [
+        "solusinya : sebaiknya disetiap daerah diadakan truk untukenampung sampah,dan usahakan masyarakat agar tidak terbiasa memakai sampah plastik/unorganik. tindakannya : pemerintah harus membuat UUD tentang penanggulangan sampah,dan membuat tenpat penangkaran sampah yg terpenuhi falisitasnya."
+        
+      ]
+    },
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Apa yang dimaksud dengan sampah?"
+        
+      ],
+      "responses": [
+        "Sampah adalah sisa buangan dari suatu produk atau barang yang sudah tidak digunakan lagi, tetapi masih dapat di daur ulang menjadi barang yang bernilai"
+        
+      ]
+    },
+
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Apa masalah yang dihadapi tentang sampah?"
+        
+      ],
+      "responses": [
+        "Permasalahan sampah di Indonesia antara lain semakin banyaknya limbah sampah yang dihasilkan masyarakat, kurangnya tempat sebagai pembuangan sampah, sampah sebagai tempat berkembang dan sarang dari serangga dan tikus, menjadi sumber polusi dan pencemaran tanah, air, dan udara, menjadi sumber dan tempat hidup kuman"
+        
+      ]
+    }
+
+    
+  ]
+}
